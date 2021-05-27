@@ -21,6 +21,6 @@ public class SwitchCase3 {
 				medalColor = 'A';
 		}
 		
-		System.out.println(ranking + "µî ¸Ş´ŞÀÇ »ö±òÀº " + medalColor + " ÀÔ´Ï´Ù.");
+		System.out.println(ranking + "ë“± ë©”ë‹¬ì˜ ìƒ‰ê¹”ì€ " + medalColor + " ì…ë‹ˆë‹¤.");
 	}
 }
