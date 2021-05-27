@@ -7,7 +7,7 @@ public class IfExample {
 		boolean isMarried = true;
 
 		if (isMarried) {
-			System.out.println("��ȥ�Դϴ�");
+			System.out.println("기혼입니다");
 		}
 
 		boolean isEven;
